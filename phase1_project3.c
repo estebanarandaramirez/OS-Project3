@@ -109,31 +109,27 @@ int main(int argc, char *argv[]) {
 
 void singleDaySim(int customing, int pirates, int ninjas, float customingTimeP, float customingTimeN, float arrivalTimeP, float arrivalTimeN){
 	int numVisits;
-	float busyTimeTeam1 = NULL;
-	float freeTimeTeam1 = NULL;
-	float busyTimeTeam2 = NULL;
-	float freeTimeTeam2 = NULL;
-	float busyTimeTeam3 = NULL;
-	float freeTimeTeam3 = NULL;
-	float busyTimeTeam4 = NULL;
-	float freeTimeTeam4 = NULL;
+	float busyTimeTeam1, freeTimeTeam1, busyTimeTeam2, freeTimeTeam2;
+  if(customing == 3 || customing == 4){
+	 float busyTimeTeam3, freeTimeTeam3;
+  }
+  if(customing == 4){
+	 float busyTimeTeam4, freeTimeTeam4;
+  }
 	float averageQueueLength, grossRevenue, goldePerVisit, totalProfits;
-	if(busyTimeTeam1 != NULL)
-		printf("Time customing team 1 was busy: %f\n", busyTimeTeam1);
-	if(freeTimeTeam1 != NULL)
-		printf("Time customing team 1 was free: %f\n", freeTimeTeam1);
-	if(busyTimeTeam2 != NULL)
-		printf("Time customing team 2 was busy: %f\n", busyTimeTeam2);
-	if(freeTimeTeam2 != NULL)
-		printf("Time customing team 2 was free: %f\n", freeTimeTeam2);
-	if(busyTimeTeam3 != NULL)
+
+	printf("Time customing team 1 was busy: %f\n", busyTimeTeam1);
+	printf("Time customing team 1 was free: %f\n", freeTimeTeam1);
+	printf("Time customing team 2 was busy: %f\n", busyTimeTeam2);
+	printf("Time customing team 2 was free: %f\n", freeTimeTeam2);
+  if(customing == 3 || customing == 4){
 		printf("Time customing team 3 was busy: %f\n", busyTimeTeam3);
-	if(freeTimeTeam3 != NULL)
 		printf("Time customing team 3 was free: %f\n", freeTimeTeam3);
-	if(busyTimeTeam4 != NULL)
+  }
+	if(customing == 4){
 		printf("Time customing team 4 was busy: %f\n", busyTimeTeam4);
-	if(freeTimeTeam4 != NULL)
 		printf("Time customing team 4 was free: %f\n", freeTimeTeam4);
+  }
 	printf("Average queue length: %f\n", averageQueueLength);
 	printf("Gross revenue: %f\n", grossRevenue);
 	printf("Gold per visit: %f\n", goldePerVisit);
