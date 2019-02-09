@@ -19,7 +19,7 @@ struct pirate {
 	float waitTime;
 	float customingTime;
 	int visits;
-  struct command *pirate;
+  struct pirate *next;
 };
 
 struct ninja {
@@ -27,7 +27,7 @@ struct ninja {
 	float waitTime;
 	float customingTime;
 	int visits;
-  struct command *ninja;
+  struct ninja *next;
 };
 
 int main(int argc, char *argv[]) {
