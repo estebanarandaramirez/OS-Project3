@@ -71,29 +71,29 @@ int main(int argc, char *argv[]) {
 				break;
 			case 4:
 				costumingTimeP = atof(argv[i]);
-				if((costumingTimeP < 1) || (costumingTimeP > MAX_TIME)){
-					printf("costuming time for pirates has to be between 1 and 1440\n");
+				if((costumingTimeP < 3) || (costumingTimeP > MAX_TIME)){
+					printf("costuming time for pirates has to be between 3 and 1440\n");
 					return EXIT_FAILURE;
 				}
 				break;
 			case 5:
 				costumingTimeN = atof(argv[i]);
-				if((costumingTimeN < 1) || (costumingTimeN > MAX_TIME)){
-					printf("costuming time for ninjas has to be between 1 and 1440\n");
+				if((costumingTimeN < 3) || (costumingTimeN > MAX_TIME)){
+					printf("costuming time for ninjas has to be between 3 and 1440\n");
 					return EXIT_FAILURE;
 				}
 				break;
 			case 6:
 				arrivalTimeP = atof(argv[i]);
-				if((arrivalTimeP < 1) || (arrivalTimeP > MAX_TIME)){
-					printf("Arrival time for pirates has to be between 1 and 1440\n");
+				if((arrivalTimeP < 3) || (arrivalTimeP > MAX_TIME)){
+					printf("Arrival time for pirates has to be between 3 and 1440\n");
 					return EXIT_FAILURE;
 				}
 				break;
 			case 7:
 				arrivalTimeN = atof(argv[i]);
-				if((arrivalTimeN < 1) || (arrivalTimeN > MAX_TIME)){
-					printf("Arrival time for ninjas has to be between 1 and 1440\n");
+				if((arrivalTimeN < 3) || (arrivalTimeN > MAX_TIME)){
+					printf("Arrival time for ninjas has to be between 3 and 1440\n");
 					return EXIT_FAILURE;
 				}
 				break;
@@ -169,15 +169,21 @@ struct customer* initializeCustomers(int costuming, int pirates, int ninjas, flo
 }
 
 float randomizeArrivalTime(float upper){
-  float average = (float)rand()/(float)(RAND_MAX/upper);
+  float a = (float)rand()/(float)(RAND_MAX/1);
+  float b = (float)rand()/(float)(RAND_MAX/1);
+  float r = sqrt(-2*log(a))*cos(2*M_PI*b);
+  float average = r + upper;
   float randomTimeOfDay = (float)rand()/(float)(RAND_MAX/MAX_TIME);
-  float r = randomTimeOfDay + average;
-  return r;
+  float final = randomTimeOfDay + average;
+  return final;
 }
 
 float randomizeCostumingTime(float upper){
-  float r = (float)rand()/(float)(RAND_MAX/upper);
-  return r;
+  float a = (float)rand()/(float)(RAND_MAX/1);
+  float b = (float)rand()/(float)(RAND_MAX/1);
+  float r = sqrt(-2*log(a))*cos(2*M_PI*b);
+  float final = r + upper;
+  return final;
 }
 
 void singleDaySim(int costuming, int pirates, int ninjas, float costumingTimeP, float costumingTimeN, float arrivalTimeP, float arrivalTimeN, struct customer *customerHead, struct costumingTeam *arrayTeams){
