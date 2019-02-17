@@ -1,0 +1,6 @@
+OS - PROJECT 3 
+Esteban Aranda (earandaramirez) & Nicholas Hollan (nchollan)
+------------------------------------------------------------
+Assumptions made: a pirate/ninja can return to the shop a maximum of 20 times and customers of the same type as the ones currently inside the shop can jump the queue if there are available costuming teams. 
+For the randomized times: for both arrival and costuming times we are using the Box-Muller transfrom to get a random distribution around the given average. 
+After taking all of the inputs for the simulation from the user, the program loops through the number of pirates and ninjas, determines how many times each one will visit the store, and fills a thread info struct to then initialize the threads. Once that is done, call pthread_join. Based on the given average arrival time, the threads get a random arrival time and sleep until then. Afterwards they attempt to enter the store. Once they enter and get the lock and the shop struct is updated, the lock is released. They sleep based on their random costuming time and then attempt to get another lock to leave the shop. Once that is done, they repeat that for each visit and if they are done, they print their stats for each visit and finally exit. Once all threads are done, the costuming team and shop print their stats and the simulation is done.

@@ -1,0 +1,3140 @@
+./shop 2 10 10 5 3 10 20
+Thread Number: 7
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 8
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 10
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 6
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 5.000000
+Total Gold Owed: 5.000000
+
+Thread Number: 5
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 9
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 4.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 11
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 3
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 5.000000
+Total Gold Owed: 5.000000
+
+Thread Number: 2
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 1
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 5.000000
+Total Gold Owed: 5.000000
+
+Thread Number: 12
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 13
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 14
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 15
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 16
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 17
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 18
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 20
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 4
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 4.000000
+Visit #2
+	Wait Time: 2.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 19
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 2.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 5.000000
+
+Shop Stats
+Total number of usages: 23
+Shop free time: 0.000000
+Shop occupied time: 5.000000
+Team 1 free time: 0.000000
+Team 1 occupied time: 5.000000
+Team 2 free time: 1.000000
+Team 2 occupied time: 4.000000
+Average length of queue: 35.922330
+Average users at the same time: 1.326087
+Gross Revenue: 77.000000
+Average Gold Per Visit: 3.347826
+Total Profits: 67.000000
+-----------------------------------------
+./shop 2 50 50 10 2 30 0
+Thread Number: 8
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 7
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 10
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 9
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 11.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 12
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 35
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 34
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 3
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 38
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 37
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 6
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 11
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 14
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 15
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 13
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 16
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 5
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 12.000000
+Total Gold Owed: 12.000000
+
+Thread Number: 17
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 20
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 18
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 21
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 22
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 24
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 23
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 26
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 27
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 29
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 30
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 31
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 32
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 47
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 42
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 50
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 44
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 41
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 46
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 48
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 11.000000
+Total Gold Owed: 11.000000
+
+Thread Number: 43
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 45
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 2
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 1
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 9.000000
+
+Thread Number: 61
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 14.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 54
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 14.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 78
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 69
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 1.000000
+Visit #2
+	Wait Time: 6.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 66
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 19.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 79
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 19.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 53
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 2.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 19
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 8.000000
+Visit #2
+	Wait Time: 11.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 17.000000
+
+Thread Number: 72
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 74
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Total Gold Owed: 0.000000
+
+Thread Number: 63
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 62
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 70
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 60
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 58
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 51
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 52
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 67
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 71
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 73
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 64
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Total Gold Owed: 0.000000
+
+Thread Number: 75
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 68
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 76
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 57
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 80
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 81
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 82
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Total Gold Owed: 0.000000
+
+Thread Number: 83
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 84
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 5.000000
+Total Gold Owed: 5.000000
+
+Thread Number: 85
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 88
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 89
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 91
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 92
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 3.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 93
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 94
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Total Gold Owed: 0.000000
+
+Thread Number: 95
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 97
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 100
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Total Gold Owed: 0.000000
+
+Thread Number: 98
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 1.000000
+
+Thread Number: 4
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Visit #2
+	Wait Time: 12.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 18.000000
+
+Thread Number: 25
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Visit #2
+	Wait Time: 13.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 49
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Visit #2
+	Wait Time: 10.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 40
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 9.000000
+Visit #2
+	Wait Time: 13.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 55
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Visit #2
+	Wait Time: 5.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 33
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Visit #2
+	Wait Time: 14.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 18.000000
+
+Thread Number: 39
+Pirate
+Number of Loops: 3
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 9.000000
+Visit #2
+	Wait Time: 14.000000
+	Costuming Time: 8.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 25.000000
+
+Thread Number: 28
+Pirate
+Number of Loops: 3
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Visit #2
+	Wait Time: 12.000000
+	Costuming Time: 8.000000
+Visit #3
+	Wait Time: 1.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 28.000000
+
+Thread Number: 36
+Pirate
+Number of Loops: 3
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 9.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 10.000000
+Visit #3
+	Wait Time: 16.000000
+	Costuming Time: 9.000000
+Total Gold Owed: 28.000000
+
+Thread Number: 65
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 56
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 0.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 77
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 3.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 5.000000
+
+Thread Number: 59
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 4.000000
+
+Thread Number: 86
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 2.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 1.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 90
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Visit #2
+	Wait Time: 8.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 3.000000
+
+Thread Number: 96
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 1.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 4.000000
+Total Gold Owed: 5.000000
+
+Thread Number: 99
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 2.000000
+
+Thread Number: 87
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 20.000000
+	Costuming Time: 0.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 1.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 2.000000
+Total Gold Owed: 3.000000
+
+Shop Stats
+Total number of usages: 126
+Shop free time: 2.000000
+Shop occupied time: 31.000000
+Team 1 free time: 2.000000
+Team 1 occupied time: 31.000000
+Team 2 free time: 3.000000
+Team 2 occupied time: 29.000000
+Average length of queue: 549.541570
+Average users at the same time: 14.111111
+Gross Revenue: 684.000000
+Average Gold Per Visit: 5.428571
+Total Profits: 674.000000
+-----------------------------------------
+./shop 3 20 15 20.4 7.3 15 15
+Thread Number: 7
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 19.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 8
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 6
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 10
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 11
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 12
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 19.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 9
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 20.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 19.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 15
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 13
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 5
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 20
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 14
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 3
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 17.000000
+Total Gold Owed: 17.000000
+
+Thread Number: 16
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 17
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 2
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 18
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 4
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 22.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 21
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 22
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 23
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 1
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 24
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 26
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 10.000000
+Total Gold Owed: 10.000000
+
+Thread Number: 19
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 21.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 18.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 27
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 29
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 6.000000
+Total Gold Owed: 6.000000
+
+Thread Number: 30
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 31
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 32
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 8.000000
+Total Gold Owed: 8.000000
+
+Thread Number: 34
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 6.000000
+Total Gold Owed: 6.000000
+
+Thread Number: 35
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 7.000000
+
+Thread Number: 25
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 7.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 14.000000
+
+Thread Number: 28
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 5.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 7.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 7.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 33
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 8.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 6.000000
+Total Gold Owed: 14.000000
+
+Shop Stats
+Total number of usages: 42
+Shop free time: 0.000000
+Shop occupied time: 11.000000
+Team 1 free time: 0.000000
+Team 1 occupied time: 11.000000
+Team 2 free time: 1.000000
+Team 2 occupied time: 10.000000
+Team 3 free time: 2.000000
+Team 3 occupied time: 9.000000
+Average length of queue: 49.850340
+Average users at the same time: 2.571429
+Gross Revenue: 594.000000
+Average Gold Per Visit: 14.142857
+Total Profits: 579.000000
+----------------------------------------
+./shop 3 27 35 45.4 38.9 10.9 22.4
+Thread Number: 8
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 46.000000
+Total Gold Owed: 46.000000
+
+Thread Number: 10
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 46.000000
+Total Gold Owed: 46.000000
+
+Thread Number: 7
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 11
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 6
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 12
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 46.000000
+Total Gold Owed: 46.000000
+
+Thread Number: 18
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 20
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 21
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 22
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 46.000000
+Total Gold Owed: 46.000000
+
+Thread Number: 19
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 44.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 88.000000
+
+Thread Number: 23
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 24
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 9
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 45.000000
+Visit #2
+	Wait Time: 4.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 88.000000
+
+Thread Number: 13
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 14
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 15
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 16
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 17
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 5
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 46.000000
+Total Gold Owed: 46.000000
+
+Thread Number: 26
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 27
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 3
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 2
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 29
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 41
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 40.000000
+
+Thread Number: 42
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 40.000000
+
+Thread Number: 40
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 39.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 78.000000
+
+Thread Number: 48
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 40.000000
+
+Thread Number: 46
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 1
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 47.000000
+Total Gold Owed: 47.000000
+
+Thread Number: 58
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 45
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 57
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 13.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 47
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 13.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 43
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 13.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 51
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 13.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 56
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 10.000000
+	Costuming Time: 38.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 77.000000
+
+Thread Number: 25
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 45.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 46.000000
+Total Gold Owed: 91.000000
+
+Thread Number: 4
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 44.000000
+Visit #2
+	Wait Time: 11.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 89.000000
+
+Thread Number: 61
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 30
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 40.000000
+
+Thread Number: 32
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 31
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 34
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 37.000000
+Total Gold Owed: 37.000000
+
+Thread Number: 35
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 37
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 40.000000
+
+Thread Number: 38
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 52
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 37.000000
+Total Gold Owed: 37.000000
+
+Thread Number: 33
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 38.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 77.000000
+
+Thread Number: 62
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 50
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 36.000000
+Total Gold Owed: 36.000000
+
+Thread Number: 44
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 54
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 38.000000
+
+Thread Number: 28
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 37.000000
+Visit #2
+	Wait Time: 11.000000
+	Costuming Time: 38.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 113.000000
+
+Thread Number: 60
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 39.000000
+
+Thread Number: 49
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 37.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 76.000000
+
+Thread Number: 53
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 39.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 79.000000
+
+Thread Number: 36
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 39.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 37.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 39.000000
+Total Gold Owed: 115.000000
+
+Thread Number: 59
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 38.000000
+Visit #2
+	Wait Time: 2.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 78.000000
+
+Thread Number: 55
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 37.000000
+Visit #2
+	Wait Time: 3.000000
+	Costuming Time: 38.000000
+Total Gold Owed: 75.000000
+
+Thread Number: 39
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 38.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 39.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 117.000000
+
+Shop Stats
+Total number of usages: 79
+Shop free time: 3.000000
+Shop occupied time: 20.000000
+Team 1 free time: 3.000000
+Team 1 occupied time: 20.000000
+Team 2 free time: 4.000000
+Team 2 occupied time: 19.000000
+Team 3 free time: 6.000000
+Team 3 occupied time: 17.000000
+Average length of queue: 263.665102
+Average users at the same time: 4.727848
+Gross Revenue: 3232.000000
+Average Gold Per Visit: 40.911392
+Total Profits: 3217.000000
+----------------------------------------
+./shop 4 13 18 22 22 0 17.8
+Thread Number: 6
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 8
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 7
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 10
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 11
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 12
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 5
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 13
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 3
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 19.000000
+Total Gold Owed: 19.000000
+
+Thread Number: 2
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 9
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 23.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 1
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 4
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 22.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 14
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 16
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 17
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 18
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 15
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 20
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 22.000000
+
+Thread Number: 21
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 22
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 23
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 20.000000
+Total Gold Owed: 20.000000
+
+Thread Number: 24
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 24.000000
+Total Gold Owed: 24.000000
+
+Thread Number: 26
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 27
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 23.000000
+Total Gold Owed: 23.000000
+
+Thread Number: 29
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 24.000000
+Total Gold Owed: 24.000000
+
+Thread Number: 30
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 23.000000
+Total Gold Owed: 23.000000
+
+Thread Number: 19
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 6.000000
+	Costuming Time: 22.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 22.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 31
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 21.000000
+
+Thread Number: 25
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 20.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 23.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 28
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 23.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 21.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 21.000000
+Total Gold Owed: 65.000000
+
+Shop Stats
+Total number of usages: 37
+Shop free time: 1.000000
+Shop occupied time: 12.000000
+Team 1 free time: 1.000000
+Team 1 occupied time: 12.000000
+Team 2 free time: 3.000000
+Team 2 occupied time: 9.000000
+Team 3 free time: 4.000000
+Team 3 occupied time: 8.000000
+Team 4 free time: 5.000000
+Team 4 occupied time: 7.000000
+Average length of queue: 46.757576
+Average users at the same time: 1.905405
+Gross Revenue: 800.000000
+Average Gold Per Visit: 21.621622
+Total Profits: 780.000000
+----------------------------------------
+./shop 4 50 50 62.3 43 152 234
+Thread Number: 8
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 6
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 10
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 7
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 11
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 12
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 64.000000
+Total Gold Owed: 64.000000
+
+Thread Number: 9
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 0.000000
+	Costuming Time: 62.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 123.000000
+
+Thread Number: 13
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 63.000000
+
+Thread Number: 14
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 1.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 63.000000
+
+Thread Number: 15
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 5
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 2.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 20
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 21
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 22
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 23
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 24
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 26
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 3
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 27
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 25
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 61.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 124.000000
+
+Thread Number: 29
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 63.000000
+
+Thread Number: 30
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 16
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 17
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 18
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 32
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 44
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 64.000000
+Total Gold Owed: 64.000000
+
+Thread Number: 48
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 63.000000
+
+Thread Number: 37
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 31
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 50
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 34
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 61.000000
+
+Thread Number: 47
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 46
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 63.000000
+
+Thread Number: 41
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 60.000000
+Total Gold Owed: 60.000000
+
+Thread Number: 42
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 63.000000
+Total Gold Owed: 63.000000
+
+Thread Number: 45
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 60.000000
+Total Gold Owed: 60.000000
+
+Thread Number: 35
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 43
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 64.000000
+Total Gold Owed: 64.000000
+
+Thread Number: 38
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 54
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 52
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 51
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 41.000000
+
+Thread Number: 60
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 61
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 5.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 62
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 58
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 8.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 2
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 62.000000
+
+Thread Number: 57
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 63
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 64
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 1
+Pirate
+Number of Loops: 1
+Visit #1
+	Wait Time: 3.000000
+	Costuming Time: 60.000000
+Total Gold Owed: 60.000000
+
+Thread Number: 67
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 93
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 41.000000
+
+Thread Number: 56
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 9.000000
+	Costuming Time: 43.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 86.000000
+
+Thread Number: 55
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 9.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 7.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 68
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 14.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 59
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 12.000000
+	Costuming Time: 46.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 87.000000
+
+Thread Number: 94
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 95
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 65
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 14.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 97
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 98
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 41.000000
+
+Thread Number: 53
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 2.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 66
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 100
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 70
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 41.000000
+
+Thread Number: 71
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 72
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 73
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 17.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 19
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Visit #2
+	Wait Time: 14.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 123.000000
+
+Thread Number: 69
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 16.000000
+	Costuming Time: 43.000000
+Visit #2
+	Wait Time: 0.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 86.000000
+
+Thread Number: 75
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 76
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 74
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 78
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 79
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 40.000000
+Total Gold Owed: 40.000000
+
+Thread Number: 80
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 81
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 82
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 83
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 41.000000
+
+Thread Number: 84
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 41.000000
+Total Gold Owed: 41.000000
+
+Thread Number: 85
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 42.000000
+
+Thread Number: 88
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 44.000000
+Total Gold Owed: 44.000000
+
+Thread Number: 89
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 45.000000
+
+Thread Number: 91
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 96
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 2.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 99
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 15.000000
+	Costuming Time: 43.000000
+Visit #2
+	Wait Time: 1.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 92
+Ninja
+Number of Loops: 1
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 43.000000
+
+Thread Number: 4
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 63.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 125.000000
+
+Thread Number: 49
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 61.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 123.000000
+
+Thread Number: 40
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 124.000000
+
+Thread Number: 33
+Pirate
+Number of Loops: 2
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 60.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 121.000000
+
+Thread Number: 28
+Pirate
+Number of Loops: 3
+Visit #1
+	Wait Time: 4.000000
+	Costuming Time: 62.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 60.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 61.000000
+Total Gold Owed: 183.000000
+
+Thread Number: 36
+Pirate
+Number of Loops: 3
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 62.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 62.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 186.000000
+
+Thread Number: 39
+Pirate
+Number of Loops: 3
+Visit #1
+	Wait Time: 7.000000
+	Costuming Time: 61.000000
+Visit #2
+	Wait Time: 15.000000
+	Costuming Time: 61.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 62.000000
+Total Gold Owed: 184.000000
+
+Thread Number: 77
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 3.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 84.000000
+
+Thread Number: 86
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 43.000000
+Visit #2
+	Wait Time: 3.000000
+	Costuming Time: 42.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 90
+Ninja
+Number of Loops: 2
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 3.000000
+	Costuming Time: 43.000000
+Total Gold Owed: 85.000000
+
+Thread Number: 87
+Ninja
+Number of Loops: 3
+Visit #1
+	Wait Time: 18.000000
+	Costuming Time: 42.000000
+Visit #2
+	Wait Time: 3.000000
+	Costuming Time: 40.000000
+Visit #3
+	Wait Time: 0.000000
+	Costuming Time: 45.000000
+Total Gold Owed: 127.000000
+
+Shop Stats
+Total number of usages: 126
+Shop free time: 3.000000
+Shop occupied time: 29.000000
+Team 1 free time: 3.000000
+Team 1 occupied time: 29.000000
+Team 2 free time: 9.000000
+Team 2 occupied time: 22.000000
+Team 3 free time: 10.000000
+Team 3 occupied time: 21.000000
+Team 4 free time: 12.000000
+Team 4 occupied time: 19.000000
+Average length of queue: 341.325607
+Average users at the same time: 6.714286
+Gross Revenue: 6563.000000
+Average Gold Per Visit: 52.087302
+Total Profits: 6543.000000
