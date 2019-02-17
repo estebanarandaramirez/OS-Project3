@@ -67,6 +67,7 @@ void simulateIntersection(){
     	nHead->approach=N;
     	nHead->turnType=rand()%3;
     	nHead->next = NULL;
+    	printf("North Head: %d Approach: %d Turn Type: %d\n",nHead->id, nHead->approach, nHead->turnType);
     	car *temp1;
     	temp1=malloc(sizeof(car));
     	temp1=nHead;
@@ -87,6 +88,7 @@ void simulateIntersection(){
 		sHead->approach=S;
 		sHead->turnType=rand()%3;
 		sHead->next = NULL;
+		printf("South Head: %d Approach: %d Turn Type: %d\n",sHead->id, sHead->approach, sHead->turnType);
 		temp1=sHead;
 		for(int i=0; i<=sCount-1; i++){
 			car *temp2;
@@ -105,6 +107,7 @@ void simulateIntersection(){
 		eHead->approach=E;
 		eHead->turnType=rand()%3;
 		eHead->next = NULL;
+		printf("East Head: %d Approach: %d Turn Type: %d\n",eHead->id, eHead->approach, eHead->turnType);
 		temp1=eHead;
 		for(int i=0; i<=eCount-1; i++){
 			car *temp2;
@@ -123,6 +126,7 @@ void simulateIntersection(){
 		wHead->approach=W;
 		wHead->turnType=rand()%3;
 		wHead->next = NULL;
+		printf("West Head: %d Approach: %d Turn Type: %d\n",wHead->id, wHead->approach, wHead->turnType);
 		temp1=wHead;
 		for(int i=0; i<=wCount-1; i++){
 			car *temp2;
@@ -137,10 +141,10 @@ void simulateIntersection(){
 		}
 
 
-		car *nCar=nHead;
-		car *sCar=sHead;
-		car *eCar=eHead;
-		car *wCar=wHead;
+		car *nCar;
+		car *sCar;
+		car *eCar;
+		car *wCar;
 		intersectionQueue *inter;
 
 		nCar = malloc(sizeof(car));
@@ -157,13 +161,17 @@ void simulateIntersection(){
 		// pthread_create(&car2_t, NULL, sHandle, NULL);
 		// pthread_create(&car3_t, NULL, eHandle, NULL);
 		// pthread_create(&car4_t, NULL, wHandle, NULL);
+		nCar=nHead;
+		sCar=sHead;
+		eCar=eHead;
+		wCar=wHead;
 
 		int nCost=3;
 		int sCost=3;
 		int eCost=3;
 		int wCost=3;
 
-		printf("North Intersection Id: %d Approach: %d Turn Type: %d\n",nHead->id, nHead->approach, nHead->turnType);
+		printf("North Intersection Id: %d Approach: %d Turn Type: %d\n",nCar->id, nCar->approach, nCar->turnType);
 		printf("South Intersection Id: %d Approach: %d Turn Type: %d\n",sCar->id, sCar->approach, sCar->turnType);
 		printf("East Intersection Id: %d Approach: %d Turn Type: %d\n",eCar->id, eCar->approach, eCar->turnType);
 		printf("West Intersection Id: %d Approach: %d Turn Type: %d\n",wCar->id, wCar->approach, wCar->turnType);
