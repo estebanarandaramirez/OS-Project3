@@ -1,0 +1,13 @@
+OS - PROJECT 3 
+Esteban Aranda (earandaramirez) & Nicholas Hollan (nchollan)
+------------------------------------------------------------
+Phase 1:
+	This method is known as a First In, First Out (FIFO) method of scheduling. This method becomes extremely inefficient if the first process to arrive takes the most resources. Say we have two people waiting to go right, from North, and West and a third waiting to go straight from the South, but a person arrives before all of them from the east hoping to make a left and driving really slowly. In a FIFO implementation, the driver from the east causes a convoy effect, causing a very high turnaround time for the entire inersection. If we had let the other drivers go first, they would have been able to utilize the intersections resources at the same time without interfering with one another, resulting in a faster turnaround.
+
+Phase 2:
+	Deadlock->North, South, East, West try to go straight or left at the same time
+	In order to prevent this type of deadlock, we would like to make sure that no car can go into a given quarter of the intersection without holding the locks for every quarter that it will pass through on its given path. Although this will prevent someone say going straight from west and straight from south at the same time, it safer to wait on the locks.
+
+Overall Solution:
+	
+
